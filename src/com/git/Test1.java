@@ -10,6 +10,7 @@ public class Test1 {
 		} else {
 			System.out.println("do work...");
 		}
+		System.out.println("Done...");
 
 	}
 
